@@ -1,9 +1,9 @@
-import './App.css';
+import FetchedUsers from './components/FetchedUser';
 
 function App() {
   return (
     <div className="App">
-      welcome
+      <FetchedUsers />
     </div>
   );
 }
